@@ -1,0 +1,91 @@
+﻿ticket,fecha_reporte,categoria,area,urgencia,impacto,tiempo_estimado_min,canal,tipo_usuario,dispositivo,horario,prioridad,escalar,accion_recomendada
+1001,2026-04-07,Internet,Tecnología,Alta,Alto,30,Teléfono,Técnico,Red,Fuera de horario,Alta,Sí,Atender de inmediato y escalar al equipo técnico
+1002,2026-04-05,Base de datos,Biblioteca,Alta,Alto,23,Formulario,Estudiante,Servidor,Laboral,Alta,Sí,Atender de inmediato y escalar al equipo técnico
+1003,2026-05-07,Seguridad,Académica,Alta,Alto,30,Presencial,Directivo,Servidor,Fuera de horario,Alta,Sí,Atender de inmediato y escalar al equipo técnico
+1004,2026-04-10,Acceso al sistema,Biblioteca,Media,Alto,19,Presencial,Estudiante,Móvil,Laboral,Alta,Sí,Atender de inmediato y escalar al equipo técnico
+1005,2026-04-24,Base de datos,Laboratorio,Alta,Medio,28,Correo,Técnico,Servidor,Laboral,Alta,Sí,Atender de inmediato y escalar al equipo técnico
+1006,2026-05-20,Seguridad,Biblioteca,Alta,Alto,31,Teléfono,Directivo,Laptop,Fuera de horario,Alta,Sí,Atender de inmediato y escalar al equipo técnico
+1007,2026-04-16,Internet,Finanzas,Alta,Alto,35,Correo,Técnico,Router,Laboral,Alta,Sí,Atender de inmediato y escalar al equipo técnico
+1008,2026-04-11,Internet,Académica,Media,Alto,19,Teléfono,Docente,Router,Laboral,Alta,Sí,Atender de inmediato y escalar al equipo técnico
+1009,2026-04-22,Acceso al sistema,Tecnología,Media,Medio,35,Teléfono,Técnico,Desktop,Laboral,Alta,Sí,Atender de inmediato y escalar al equipo técnico
+1010,2026-04-05,Plataforma virtual,Registro,Alta,Alto,18,Correo,Administrativo,Desktop,Laboral,Alta,Sí,Atender de inmediato y escalar al equipo técnico
+1011,2026-04-23,Plataforma virtual,Académica,Alta,Medio,22,Formulario,Técnico,Laptop,Laboral,Alta,Sí,Atender de inmediato y escalar al equipo técnico
+1012,2026-04-26,Base de datos,Laboratorio,Alta,Alto,33,Chat,Directivo,Servidor,Laboral,Alta,Sí,Atender de inmediato y escalar al equipo técnico
+1013,2026-04-18,Plataforma virtual,Biblioteca,Media,Alto,14,Chat,Administrativo,Desktop,Fuera de horario,Alta,Sí,Atender de inmediato y escalar al equipo técnico
+1014,2026-04-15,Base de datos,Finanzas,Alta,Alto,15,Formulario,Estudiante,Servidor,Fuera de horario,Alta,Sí,Atender de inmediato y escalar al equipo técnico
+1015,2026-04-27,Base de datos,Finanzas,Alta,Alto,10,Presencial,Administrativo,Servidor,Fuera de horario,Alta,Sí,Atender de inmediato y escalar al equipo técnico
+1016,2026-04-30,Seguridad,Académica,Media,Medio,31,Presencial,Directivo,Red,Laboral,Alta,Sí,Atender de inmediato y escalar al equipo técnico
+1017,2026-04-13,Acceso al sistema,Académica,Alta,Medio,22,Correo,Docente,Desktop,Laboral,Alta,Sí,Atender de inmediato y escalar al equipo técnico
+1018,2026-05-05,Internet,Académica,Media,Alto,13,Correo,Administrativo,Red,Laboral,Alta,Sí,Atender de inmediato y escalar al equipo técnico
+1019,2026-04-23,Base de datos,Dirección,Media,Alto,14,Presencial,Administrativo,Servidor,Laboral,Alta,Sí,Atender de inmediato y escalar al equipo técnico
+1020,2026-05-18,Plataforma virtual,Laboratorio,Alta,Alto,25,Teléfono,Administrativo,Tablet,Fuera de horario,Alta,Sí,Atender de inmediato y escalar al equipo técnico
+1021,2026-04-10,Base de datos,Tecnología,Media,Alto,16,Presencial,Estudiante,Servidor,Fuera de horario,Alta,Sí,Atender de inmediato y escalar al equipo técnico
+1022,2026-04-11,Acceso al sistema,Tecnología,Media,Alto,26,Teléfono,Docente,Móvil,Laboral,Alta,Sí,Atender de inmediato y escalar al equipo técnico
+1023,2026-04-16,Seguridad,Laboratorio,Alta,Medio,17,Chat,Docente,Servidor,Laboral,Alta,Sí,Atender de inmediato y escalar al equipo técnico
+1024,2026-04-13,Internet,Dirección,Media,Alto,10,Presencial,Administrativo,Router,Fuera de horario,Alta,Sí,Atender de inmediato y escalar al equipo técnico
+1025,2026-04-22,Internet,Laboratorio,Alta,Alto,17,Formulario,Directivo,Red,Laboral,Alta,Sí,Atender de inmediato y escalar al equipo técnico
+1026,2026-05-16,Internet,Administración,Media,Alto,31,Formulario,Directivo,Red,Laboral,Alta,Sí,Atender de inmediato y escalar al equipo técnico
+1027,2026-04-06,Internet,Registro,Alta,Medio,22,Formulario,Docente,Red,Laboral,Alta,Sí,Atender de inmediato y escalar al equipo técnico
+1028,2026-05-13,Seguridad,Registro,Alta,Medio,14,Teléfono,Docente,Laptop,Laboral,Alta,Sí,Atender de inmediato y escalar al equipo técnico
+1029,2026-05-04,Acceso al sistema,Administración,Alta,Medio,30,Formulario,Directivo,Laptop,Fuera de horario,Alta,Sí,Atender de inmediato y escalar al equipo técnico
+1030,2026-05-03,Base de datos,Dirección,Alta,Alto,16,Formulario,Técnico,Servidor,Laboral,Alta,Sí,Atender de inmediato y escalar al equipo técnico
+1031,2026-05-03,Hardware,Biblioteca,Media,Medio,52,Formulario,Técnico,Laptop,Laboral,Media,No,Registrar y atender durante el día
+1032,2026-04-10,Correo electrónico,Finanzas,Baja,Medio,30,Chat,Técnico,Desktop,Laboral,Media,No,Registrar y atender durante el día
+1033,2026-04-16,Correo electrónico,Académica,Alta,Medio,36,Formulario,Administrativo,Laptop,Fuera de horario,Media,Sí,Registrar y escalar si no se resuelve durante el día
+1034,2026-05-10,Impresora,Tecnología,Baja,Medio,34,Presencial,Técnico,Impresora,Laboral,Media,No,Registrar y atender durante el día
+1035,2026-04-29,Hardware,Laboratorio,Baja,Medio,63,Formulario,Directivo,Laptop,Laboral,Media,No,Registrar y atender durante el día
+1036,2026-05-13,Software,Laboratorio,Media,Medio,57,Teléfono,Estudiante,Laptop,Fuera de horario,Media,No,Registrar y atender durante el día
+1037,2026-05-18,Software,Laboratorio,Media,Bajo,38,Correo,Directivo,Desktop,Laboral,Media,No,Registrar y atender durante el día
+1038,2026-04-27,Equipo lento,Tecnología,Media,Alto,62,Formulario,Administrativo,Desktop,Laboral,Media,No,Registrar y atender durante el día
+1039,2026-05-16,Software,Registro,Media,Bajo,65,Correo,Directivo,Desktop,Laboral,Media,No,Registrar y atender durante el día
+1040,2026-04-17,Software,Administración,Media,Medio,44,Teléfono,Estudiante,Laptop,Laboral,Media,No,Registrar y atender durante el día
+1041,2026-05-15,Equipo lento,Registro,Baja,Bajo,55,Teléfono,Estudiante,Desktop,Laboral,Media,No,Registrar y atender durante el día
+1042,2026-04-17,Equipo lento,Administración,Baja,Medio,47,Correo,Técnico,Laptop,Laboral,Media,No,Registrar y atender durante el día
+1043,2026-04-18,Correo electrónico,Biblioteca,Baja,Medio,51,Presencial,Docente,Laptop,Laboral,Media,Sí,Registrar y escalar si no se resuelve durante el día
+1044,2026-04-13,Equipo lento,Finanzas,Media,Medio,46,Teléfono,Administrativo,Laptop,Laboral,Media,No,Registrar y atender durante el día
+1045,2026-04-03,Impresora,Dirección,Media,Bajo,52,Correo,Estudiante,Impresora,Laboral,Media,No,Registrar y atender durante el día
+1046,2026-05-05,Equipo lento,Registro,Baja,Medio,57,Chat,Técnico,Desktop,Laboral,Media,Sí,Registrar y escalar si no se resuelve durante el día
+1047,2026-04-04,Equipo lento,Tecnología,Alta,Medio,38,Formulario,Estudiante,Laptop,Laboral,Media,No,Registrar y atender durante el día
+1048,2026-05-03,Software,Biblioteca,Baja,Medio,33,Teléfono,Técnico,Laptop,Laboral,Media,No,Registrar y atender durante el día
+1049,2026-04-01,Correo electrónico,Registro,Baja,Medio,40,Teléfono,Administrativo,Móvil,Fuera de horario,Media,No,Registrar y atender durante el día
+1050,2026-04-23,Impresora,Laboratorio,Alta,Medio,32,Formulario,Estudiante,Impresora,Laboral,Media,No,Registrar y atender durante el día
+1051,2026-04-06,Hardware,Académica,Alta,Medio,45,Teléfono,Estudiante,Laptop,Laboral,Media,Sí,Registrar y escalar si no se resuelve durante el día
+1052,2026-04-06,Correo electrónico,Laboratorio,Baja,Medio,49,Presencial,Técnico,Laptop,Laboral,Media,No,Registrar y atender durante el día
+1053,2026-05-17,Impresora,Dirección,Baja,Bajo,61,Presencial,Docente,Impresora,Fuera de horario,Media,No,Registrar y atender durante el día
+1054,2026-05-14,Impresora,Académica,Baja,Medio,63,Presencial,Docente,Impresora,Laboral,Media,Sí,Registrar y escalar si no se resuelve durante el día
+1055,2026-05-11,Equipo lento,Académica,Alta,Medio,54,Correo,Técnico,Laptop,Laboral,Media,No,Registrar y atender durante el día
+1056,2026-05-13,Correo electrónico,Administración,Baja,Medio,62,Presencial,Estudiante,Desktop,Fuera de horario,Media,Sí,Registrar y escalar si no se resuelve durante el día
+1057,2026-04-15,Software,Laboratorio,Media,Bajo,45,Chat,Directivo,Desktop,Laboral,Media,Sí,Registrar y escalar si no se resuelve durante el día
+1058,2026-04-22,Software,Finanzas,Media,Medio,34,Teléfono,Administrativo,Laptop,Laboral,Media,Sí,Registrar y escalar si no se resuelve durante el día
+1059,2026-05-14,Correo electrónico,Laboratorio,Baja,Bajo,36,Chat,Administrativo,Desktop,Laboral,Media,Sí,Registrar y escalar si no se resuelve durante el día
+1060,2026-04-20,Hardware,Laboratorio,Baja,Alto,37,Correo,Directivo,Laptop,Laboral,Media,Sí,Registrar y escalar si no se resuelve durante el día
+1061,2026-04-14,Correo electrónico,Biblioteca,Media,Bajo,62,Formulario,Estudiante,Desktop,Laboral,Baja,No,Registrar para seguimiento programado
+1062,2026-04-08,Hardware,Dirección,Baja,Bajo,53,Teléfono,Docente,Desktop,Fuera de horario,Baja,No,Registrar para seguimiento programado
+1063,2026-05-02,Software,Académica,Baja,Bajo,55,Chat,Directivo,Desktop,Fuera de horario,Baja,No,Registrar para seguimiento programado
+1064,2026-04-22,Software,Administración,Baja,Bajo,65,Correo,Administrativo,Desktop,Fuera de horario,Baja,No,Registrar para seguimiento programado
+1065,2026-04-17,Correo electrónico,Dirección,Baja,Medio,45,Teléfono,Estudiante,Móvil,Laboral,Baja,No,Registrar para seguimiento programado
+1066,2026-04-04,Hardware,Dirección,Baja,Bajo,72,Teléfono,Estudiante,Laptop,Fuera de horario,Baja,No,Registrar para seguimiento programado
+1067,2026-04-28,Equipo lento,Dirección,Media,Bajo,60,Presencial,Administrativo,Laptop,Fuera de horario,Baja,No,Registrar para seguimiento programado
+1068,2026-05-17,Software,Laboratorio,Baja,Medio,70,Correo,Estudiante,Desktop,Laboral,Baja,No,Registrar para seguimiento programado
+1069,2026-05-06,Impresora,Académica,Media,Bajo,76,Formulario,Docente,Impresora,Laboral,Baja,No,Registrar para seguimiento programado
+1070,2026-04-26,Equipo lento,Dirección,Baja,Bajo,86,Formulario,Administrativo,Desktop,Laboral,Baja,No,Registrar para seguimiento programado
+1071,2026-04-05,Software,Finanzas,Baja,Bajo,86,Formulario,Técnico,Desktop,Laboral,Baja,No,Registrar para seguimiento programado
+1072,2026-05-06,Software,Finanzas,Baja,Bajo,72,Formulario,Docente,Laptop,Laboral,Baja,No,Registrar para seguimiento programado
+1073,2026-04-17,Hardware,Tecnología,Baja,Bajo,60,Presencial,Docente,Laptop,Fuera de horario,Baja,No,Registrar para seguimiento programado
+1074,2026-04-25,Software,Laboratorio,Baja,Bajo,78,Teléfono,Administrativo,Laptop,Laboral,Baja,No,Registrar para seguimiento programado
+1075,2026-04-06,Hardware,Laboratorio,Baja,Bajo,88,Teléfono,Docente,Desktop,Laboral,Baja,No,Registrar para seguimiento programado
+1076,2026-04-03,Software,Finanzas,Baja,Bajo,46,Chat,Directivo,Desktop,Laboral,Baja,No,Registrar para seguimiento programado
+1077,2026-04-07,Software,Laboratorio,Media,Bajo,73,Formulario,Docente,Laptop,Laboral,Baja,No,Registrar para seguimiento programado
+1078,2026-04-06,Correo electrónico,Registro,Media,Medio,86,Presencial,Estudiante,Laptop,Fuera de horario,Baja,No,Registrar para seguimiento programado
+1079,2026-04-09,Impresora,Dirección,Media,Bajo,86,Teléfono,Técnico,Impresora,Laboral,Baja,No,Registrar para seguimiento programado
+1080,2026-04-25,Correo electrónico,Laboratorio,Baja,Bajo,64,Teléfono,Docente,Desktop,Laboral,Baja,No,Registrar para seguimiento programado
+1081,2026-05-12,Hardware,Tecnología,Baja,Bajo,62,Formulario,Directivo,Laptop,Laboral,Baja,No,Registrar para seguimiento programado
+1082,2026-04-04,Correo electrónico,Dirección,Baja,Medio,86,Correo,Docente,Móvil,Fuera de horario,Baja,No,Registrar para seguimiento programado
+1083,2026-04-24,Software,Biblioteca,Baja,Bajo,59,Formulario,Directivo,Laptop,Laboral,Baja,No,Registrar para seguimiento programado
+1084,2026-04-01,Software,Laboratorio,Baja,Medio,70,Teléfono,Técnico,Laptop,Laboral,Baja,No,Registrar para seguimiento programado
+1085,2026-04-15,Impresora,Registro,Baja,Bajo,59,Teléfono,Administrativo,Impresora,Fuera de horario,Baja,No,Registrar para seguimiento programado
+1086,2026-04-27,Software,Registro,Media,Bajo,59,Correo,Técnico,Laptop,Fuera de horario,Baja,No,Registrar para seguimiento programado
+1087,2026-04-27,Correo electrónico,Finanzas,Baja,Bajo,83,Correo,Estudiante,Laptop,Laboral,Baja,No,Registrar para seguimiento programado
+1088,2026-04-22,Equipo lento,Finanzas,Media,Bajo,50,Formulario,Docente,Desktop,Laboral,Baja,No,Registrar para seguimiento programado
+1089,2026-04-07,Software,Finanzas,Baja,Bajo,73,Correo,Estudiante,Desktop,Laboral,Baja,No,Registrar para seguimiento programado
+1090,2026-04-23,Software,Biblioteca,Baja,Medio,58,Teléfono,Directivo,Laptop,Laboral,Baja,No,Registrar para seguimiento programado
